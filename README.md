@@ -1,4 +1,4 @@
-# Hi, I'm R. Oladimeji Yisa (Ola yisa) 👋
+# Hi, I'm R. Oladimeji Yisa (Ola yisa)
 ### Process Control Engineer → Business Analyst → Data Scientist & AI Builder
 
 > *"I've controlled pressure, temperature, and slurry density in oil and gas refineries. Now I apply that same precision to data pipelines, ML models, and AI systems."*
