@@ -67,9 +67,9 @@
 > >         - ---
 > >
 > > ## 🎓 Education & Certifications
-> >
-> > - 🎓 A.S. in Physical Sciences — City Colleges of Chicago
-> > - - 🎓 A.S. in Electrical & Electronics Engineering — Federal Polytechnic
+> > -🎓 BSc. in Industrial Technology — University of Texas Permian Basin, Odessa, TX
+> > - - 🎓 A.S. in Physical Sciences — City Colleges of Chicago
+> > - - - 🎓 A.A.S. in Electrical & Electronics Engineering — Federal Polytechnic
 > >   - - 📜 Google IT Support Certificate
 > >     - - 📜 Industrial Network Architecture — Rockwell Automation
 > >       - - 📜 Safety & Compliance — OSHA
@@ -77,7 +77,7 @@
 > >         - ---
 > >
 > > ## 🤝 Affiliations
-> >
+> > Phi Theta Cappa Kappa Honor Society
 > > - National Society of Black Engineers (NSBE)
 > > - - Society of Petroleum Engineers (SPE)
 > >   - - National Society of Leadership and Success
