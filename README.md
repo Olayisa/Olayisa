@@ -89,7 +89,7 @@
 > > [![Email](https://img.shields.io/badge/Email-olayisa%40outlook.com-blue?style=flat&logo=gmail)](mailto:olayisa@outlook.com)
 > > [![LinkedIn](https://img.shields.io/badge/LinkedIn-OlaYisa-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/olayisa)
 > > [![Live App](https://img.shields.io/badge/Live%20App-Customer%20Churn%20ML-brightgreen?style=flat&logo=streamlit)](https://customer-churn-ml.streamlit.app)
-> >
+> > [![Live App](https://img.shields.io/badge/Live%20App-cyber%20shield%20ML-brightgreen?style=flat&logo=streamlit)](https://cybershield-ai-app-ml-8kwdk5kbinzqkkfdfuod5w.streamlit.app/))
 > > ---
 > >
 > > *"From refinery control loops to machine learning pipelines — precision is the constant."*
