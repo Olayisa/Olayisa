@@ -5,9 +5,9 @@ RO Yisa / Intercessor Yisa R. O. Adams, founder of AraHeals Holistic Healing / A
 
 ## Araflo (www.araflo.com)
 - Spelling: **Araflo** (not AroFlo, which is unrelated field service software).
-- Status: profile incomplete. The site was unreachable from the cloud session and no earlier notes were found.
-- Fill in:
-  - What it sells / does: TODO
+- What it sells: software platform covering scheduling, booking, intake, payments, audio and video conferencing, and a virtual terminal payment platform. These pair naturally with done-for-you automation services for small businesses.
+- Site was unreachable from the cloud session, so details come from the owner.
+- Still to fill in:
   - Target audience: TODO
   - Pricing / offers: TODO
   - Current marketing and sales channels: TODO
